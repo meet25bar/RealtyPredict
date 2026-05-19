@@ -126,5 +126,9 @@ Contributions are welcome. Feel free to fork this repository and submit pull req
 
 This project is open-source and available under the MIT License.
 
+---
+
+## 👨‍💻 Author
+
 Meet Barot  
 B.Tech CSE Student | Machine Learning Enthusiast
