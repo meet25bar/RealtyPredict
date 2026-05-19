@@ -1,4 +1,3 @@
-﻿# RealtyPredict
 # RealtyPredict 🏡
 
 RealtyPredict is a Machine Learning project that predicts house prices using the Ames Housing dataset and Linear Regression.  
